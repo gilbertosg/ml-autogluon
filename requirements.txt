@@ -1,0 +1,9 @@
+ipykernel
+jupyter
+matplotlib
+pandas
+sklearn
+setuptools
+wheel
+mxnet<2.0.0
+autogluon
